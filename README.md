@@ -5,7 +5,7 @@ Docker for cron
 - None
 
 ## Volumes
-- /var/spool/cron/crontabs - crontabs
+- /etc/periodic - executable scripts
 
 ## Environment
 - None
