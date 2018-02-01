@@ -5,7 +5,7 @@ Docker for cron
 - None
 
 ## Volumes
-- /etc/periodic - executable scripts
+- /etc/periodic - periodic folders
 
 ## Environment
 - None
